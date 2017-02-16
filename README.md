@@ -17,7 +17,7 @@ I suggest downloading and installing miniconda (http://conda.pydata.org/minicond
 
 Once this is installed, the following command will install all required packages in your Python environment:
 
-`conda install numpy scipy matplotlib scikit-learn ipython-notebook seaborn`
+`conda install numpy scipy matplotlib scikit-learn jupyter seaborn`
 
 Alternatively, you can download and install the (very large) Anaconda software distribution, found at https://store.continuum.io/.
 
